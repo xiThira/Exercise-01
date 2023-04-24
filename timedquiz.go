@@ -78,5 +78,5 @@ func main() {
 		}
 
 	}
-	fmt.Println("You passed", correct, "out of the", len(problems), "total questions")
+	fmt.Println("You have passed", correct, "out of the", len(problems), "total questions")
 }
